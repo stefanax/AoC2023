@@ -1,6 +1,4 @@
-﻿using System.Collections;
-
-namespace AoC2023;
+﻿namespace AoC2023;
 
 public class Day1
 {
